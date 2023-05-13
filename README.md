@@ -1,4 +1,4 @@
-# INSAID-assingment
+# Fraud-Transactio-Prediction
 
 • Cleaned the data and performed feature engineering to extract useful data for building the model.
 
